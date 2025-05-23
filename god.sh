@@ -41,7 +41,7 @@ help() {
 
     Usage:
 
-        god.sh let-there-be-light"
+        god.sh let-there-be-light
     "
     exit 1
 }
